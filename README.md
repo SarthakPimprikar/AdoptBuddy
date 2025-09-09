@@ -52,6 +52,6 @@ We welcome contributions to improve Adoptbuddy! To contribute, follow these step
 - Create a pull request explaining your changes.
 
 ## Contact Information
-For questions, please contact 
-- [GitHub](https://github.com/Ketan-cmd)
-- [LinkedIn](https://www.linkedin.com/in/ketan-pathade/)
+For questions, please contact:
+- [GitHub](https://github.com/SarthakPimprikar)
+- [LinkedIn](https://www.linkedin.com/in/sarthak-pimprikar/)
